@@ -1,4 +1,4 @@
-<p align=right><i>stdrice</i></p>
+<p align=right><i>stdrice/pznguin-kyun/p3nguin-kun</i></p>
 
 ![img](https://files.catbox.moe/xku92e.png)
 
