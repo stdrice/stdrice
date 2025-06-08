@@ -2,4 +2,4 @@
 
 ![img](https://files.catbox.moe/xku92e.png)
 
-[www](http://stdrice.github.io) ~ [blog](http://stdrice.bearblog.dev) ~ [mail](mailto:stdrice@disroot.org)
+<a href="https://stdrice.github.io"><img src="https://stdrice.github.io/button.png" width="88" height="31"></a>
