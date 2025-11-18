@@ -1,4 +1,4 @@
-<p align=right><b><i>stdrice</i></b></p>
+<p align=right><b><i>stdrice~</i></b></p>
 
 ![img](https://files.catbox.moe/xku92e.png)
 
